@@ -27,10 +27,10 @@ Simple node server with MongoDB on localhost:5000
     MongoDB</br>
     Robo3T</br>
     Postman</br>
-# Discription
-- MongoDB database created with Robo3T menagement tool
-- two collections: students & courses
-- students with keys: firstName, lastName, yearOfBirth, address, etc
-- courses with keys: name, points
-- created API services and CRUD for database manipulating
-- test API with Postman
+<h2>Discription</h2>
+- MongoDB database created with Robo3T menagement tool</br>
+- two collections: students & courses</br>
+- students with keys: firstName, lastName, yearOfBirth, address, etc</br>
+- courses with keys: name, points</br>
+- created API services and CRUD for database manipulating</br>
+- test API with Postman</br>
